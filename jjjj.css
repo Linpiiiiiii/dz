@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.vacancy-list {
+    margin: 20px;
+}
+
+.vacancy {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.vacancy h2 {
+    color: #333;
+}
+
+.vacancy p {
+    color: #666;
+}
+
+.salary {
+    font-weight: bold;
+    color: green;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
